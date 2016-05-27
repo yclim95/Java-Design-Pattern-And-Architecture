@@ -1,4 +1,4 @@
-# Data Access Object (DAO) Pattern 
+# Lesson 8 Data Access Object (DAO) Pattern 
 
 ## Controller Code
 [Click Here](https://github.com/yclim95/Java-Design-Pattern-And-Architecture/blob/master/Lessons/Lesson%208%20DAO/src/com/yclim/designpatterns/demo1/controller/Controller.java)

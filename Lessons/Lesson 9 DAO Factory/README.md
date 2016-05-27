@@ -1,4 +1,4 @@
-# Data Access Object (DAO) Pattern Factories
+# Lesson 9 Data Access Object (DAO) Pattern Factories
 
 ## Controller Code
 [Click Here](https://github.com/yclim95/Java-Design-Pattern-And-Architecture/blob/master/Lessons/Lesson%209%20DAO%20Factory/src/com/yclim/designpatterns/demo1/controller/Controller.java)
