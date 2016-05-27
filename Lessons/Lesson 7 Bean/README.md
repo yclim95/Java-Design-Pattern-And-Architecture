@@ -1,4 +1,4 @@
-# Singleton
+# Bean
 
 ## Controller Code
 [Click Here](https://github.com/yclim95/Java-Design-Pattern-And-Architecture/blob/master/Lessons/Lesson%206%20Singleton/src/com/yclim/designpatterns/demo1/controller/Controller.java)
