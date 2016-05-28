@@ -1,4 +1,4 @@
-# Lesson 13 Facade
+# Lesson 14 Facade
 
 ## Code
 [Click Here for Code](https://github.com/yclim95/Java-Design-Pattern-And-Architecture/tree/master/Lessons/Lesson%2014%20Facade/src)
